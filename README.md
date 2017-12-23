@@ -10,4 +10,4 @@
 
 ## 目录
 
-- 为什么选择 Egg.js 以及 Egg.js 快速初始化
+- [为什么选择 Egg.js 以及 Egg.js 快速初始化](https://github.com/celarears/building-blocks/blob/master/book/为什么选择%20Egg.js%20以及%20Egg.js%20快速初始化.md)
