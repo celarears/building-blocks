@@ -11,6 +11,8 @@
 
 ## 目录
 
-- [1.1 为什么选择 Egg.js 以及 Egg.js 快速初始化](https://github.com/celarears/building-blocks/blob/master/book/1.1%20为什么选择%20Egg.js%20以及%20Egg.js%20快速初始化.md)
+- [1.1 为什么选择 Egg.js 以及 Egg.js 快速初始化](book/1.1%20为什么选择%20Egg.js%20以及%20Egg.js%20快速初始化.md)
 
-- 2.1 连接数据库
+- [2.1 连接数据库](book/2.1 连接数据库.md)
+
+- [2.2 实现注册功能](book/2.2%20实现注册功能.md)
