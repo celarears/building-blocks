@@ -1,6 +1,6 @@
 # building-blocks
 
-使用node.js开发接口
+使用 Egg.js 开发接口
 
 ## 开发环境
 
